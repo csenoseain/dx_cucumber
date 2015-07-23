@@ -5,5 +5,5 @@ Feature: Logging for DX's User
   
   Scenario: Valid login
     Given I am on the homePage
-    When I enter email "idell@makingsense.com" and password "qwerty"
+    When I enter email "test@test.com" and password "uno123456"
     Then I should see "Actualmente no tienes ningún evento activo."
