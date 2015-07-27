@@ -1,2 +1,2 @@
 # dx_cucumber
-Test Cucumber - Ruby
+Test Cucumber - Cucumber Ruby
